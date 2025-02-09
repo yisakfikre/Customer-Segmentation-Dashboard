@@ -11,7 +11,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of custome
 
 ## 🖥️ Screenshots
 ### 📊 Dashboard Preview
-![Dashboard Screenshot](link-to-screenshot.png) *(Replace with actual image link)*
+![Dashboard Screenshot](https://github.com/yisakfikre/Customer-Segmentation-Dashboard/blob/main/Customer%20Segmentation%20dashboard.JPG) *(Replace with actual image link)*
 
 ## 📂 Project Structure
 ```
@@ -25,7 +25,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of custome
 ## 📥 Installation & Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Customer-Segmentation-Dashboard.git
+   git clone https://github.com/yisakfikre/Customer-Segmentation-Dashboard.git
    ```
 2. **Open the Power BI File:**
    - Open `Customer_Segmentation_Dashboard.pbix` in Power BI Desktop.
@@ -41,8 +41,8 @@ This interactive Power BI dashboard provides a comprehensive analysis of custome
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Connect With Me
-🔗 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+🔗 **GitHub:** [github.com/yisakfikre](https://github.com/yisakfikre)  
+🔗 **LinkedIn:** [linkedin.com/in/yisak-fikre-b806361bb](https://www.linkedin.com/in/yisak-fikre-b806361bb)
 
 ---
 🚀 *Feel free to contribute, open issues, or reach out for collaborations!*
